@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 🌐 Programming Languages:
 
 Proficient in C/C++ and Core Java.
+
 🧠 Key Concepts:
 
 - Strong foundation in Object-Oriented Programming (OOP).
