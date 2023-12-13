@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ **Hello! I'm Parash Gupta,**
 <!--
 **parashgupta/parashgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +36,7 @@ Proficient in C/C++ and Core Java.
 👨‍💻 Work Experience
   -  Worked as a Java Developer at [Softwaves Technologies](#)
 
-[![My Skills](https://skillicons.dev/icons?i=c,c++,java,js,html,css,mysql&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,html,css,mysql&perline=9)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parashgupta&label=Profile%20views&color=0e75b6&style=flat" alt="parashgupta" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parashgupta" alt="parashgupta" /></a> </p>
